@@ -20,7 +20,7 @@ This project is a RESTful API for managing contacts. It provides endpoints for c
 
 ## Usage:
 
-+ Clone the repository: git clone https://github.com/your-username/contact-manager-rest-api.git
++ Clone the repository: git clone https://github.com/Sankha-Suvra/ContactManagement-RestAPI.git
 + Install dependencies: npm install
 + Set up environment variables (if necessary)
 + Start the server: npm start
